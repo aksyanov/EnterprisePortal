@@ -56,22 +56,22 @@ nav{
     margin-top: -28px;
 }
 .mainWrapper{
-    width: 80%;
+    width: 90%;
     height: 100%;
     background: rgba(233, 233, 233, 0.86);
     margin: 0 auto;
     position: relative;
     z-index: 100;
-    padding-top: 130px;
+    padding: 140px 10px 0 10px;
 }
 .leftWrapper{
-    width: 70%;
+    width: 84%;
     float: left;
-    background-color: green;
 }
 .rightWrapper{
-    width: 28%;
+    width: 15%;
     float: right;
-    background-color: #ffff00;
 }
+
+
 
