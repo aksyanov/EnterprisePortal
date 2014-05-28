@@ -1,13 +1,19 @@
 html{
     height: 100%;
+    background: url(../img/body_bg.png) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
 }
 body{
     margin: 0;
     padding: 0;
-    padding-top: 1px;
     height: 100%;
-    color: rgb(51, 53, 39);
+    /*color: rgb(51, 53, 39);
+    padding-top: 1px;*/
     font-family: Tahoma;
+    font-size: 14pt;
 }
 .clear{
     clear: both;
